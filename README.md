@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Creative-Skull
 - 👀 I’m interested in AI and DATASCIENCE 
 - 🌱 I’m currently learning BTech in Electronics and communication with spl in biomedical
-- 💞️ I’m looking to collaborate on Biomedical projects with implementation of AI modela
+- 💞️ I’m looking to collaborate on Biomedical projects with implementation of AI models
 - 📫 Reach me through LinkedIn https://www.linkedin.com/in/jayanth-balakrishnan-3a3a4424b
 
 <!---
